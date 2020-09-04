@@ -11,7 +11,7 @@ I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I
 
 ### Connect with me:
 
-[<img align="left" alt="raymondklutse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />][linkedin]
 
 <br />
 
@@ -26,8 +26,6 @@ I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-
-[<img align="left" alt="raymondklutse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/js.svg" />][linkedin]
 
 [<img align="left" alt="raymondklutse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][linkedin]
 [<img align="left" alt="raymondklutse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][linkedin]
