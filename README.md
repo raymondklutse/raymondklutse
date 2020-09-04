@@ -19,6 +19,7 @@ I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I
 ### Languages and Tools:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][linkedin]
 
 <br />
 <br />
