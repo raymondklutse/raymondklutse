@@ -9,4 +9,3 @@ I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I
 - 📫 How to reach me: Email: raymondklutse@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love music, reading and writing.
--->
