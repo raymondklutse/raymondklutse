@@ -1,5 +1,5 @@
-### Hi there,
-I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I am looking for an opportunity to join a team to hone my skills and contribute to business objectives.👋
+### Hi there👋,
+I am Raymond Klutse , a Data Scientist passionate about innovation and R&D and I am looking for an opportunity to join a team to hone my skills and contribute to business objectives.
 
 - 🔭 I’m currently working on Credit Risk Prediction and Dashboard development
 - 🌱 I’m currently learning Javascript and API development 
