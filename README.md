@@ -4,7 +4,7 @@ I am Raymond Klutse , a Data Scientist passionate about innovation and R&D, and 
 - 🔭 I’m currently working on Dashboard development and Credit Risk Prediction using Machine Learning.
 - 🌱 I’m currently learning Javascript and API development. 
 - 👯 I’m looking to collaborate on Data Science and Software Development projects.
-- 🤔 I’m looking for help with Data Science, Web Development and Cross Platform Mobile Application Development. 
+- 🤔 I’m looking for help with Data Science, Web Development and Mobile Application Development using React Native. 
 - 💬 Ask me about Data Science and Software Development.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love music, reading and writing.
